@@ -47,7 +47,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Home: index.md
+  - Home: README.md
   - Getting Started:
     - Architecture: references/architecture.md
     - Legacy vs Rebased: references/old-vs-new.md
